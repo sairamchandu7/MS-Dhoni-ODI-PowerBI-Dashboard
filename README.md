@@ -50,10 +50,10 @@ Analyzes runs scored against different international opponents.
 Explores performance across different batting positions.
 
 ### Dismissal Analysis
-Provides insights into dismissal patterns and the relationship between dismissals and innings.
+Analyzes dismissal patterns and their impact on batting performance.
 
 ### Ground Analysis
-Highlights performance across different cricket grounds.
+Analyzes batting performance across different venues.
 
 ### Career Milestones
 Showcases important milestones achieved throughout his ODI career.
@@ -103,4 +103,3 @@ GitHub: [Sairam Chandu](https://github.com/sairamchandu7)
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star.
